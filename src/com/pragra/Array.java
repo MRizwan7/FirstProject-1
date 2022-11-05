@@ -7,7 +7,8 @@ public class Array {
         int sum = 0;
         for(int i= 0; i<=5; i++ ){
         int marks = sc.nextInt();
-        System.out.println();
+        System.out.println();:q
+
 
 
 
