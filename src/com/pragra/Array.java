@@ -5,20 +5,13 @@ public class Array {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter your marks");
         int sum = 0;
-        for(int i= 0; i<=5; i++ ){
-        int marks = sc.nextInt();
-        System.out.println();:q
+        for (int i = 0; i <= 5; i++) {
+            int marks = sc.nextInt();
+            System.out.println(marks);
+            System.out.println("wbviwurhvuiaefvbueycawubyuawbyuaefovhwvuw");
 
 
+        }
 
 
-
-
-
-
-    }
-
-
-
-
-}
+    }}
