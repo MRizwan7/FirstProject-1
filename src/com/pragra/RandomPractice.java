@@ -1,4 +1,3 @@
-package com.pragra;
 
 public class RandomPractice {
     static int x = 4;
